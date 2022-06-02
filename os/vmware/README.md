@@ -27,5 +27,5 @@ sudo CPATH=/usr/src/kernels/$(uname -r)/include/linux vmware-modconfig --console
 ```
 
 ### Helpful  Links
-https://docs.fedoraproject.org/en-US/quick-docs/how-to-use-vmware/
-https://communities.vmware.com/t5/VMware-Workstation-Pro/Compiling-vmmon-module-fails-on-linux-kernel-5-16-0-arch1-1/td-p/2887820
+[Fedora Quick-Docs](https://docs.fedoraproject.org/en-US/quick-docs/how-to-use-vmware/)  
+[VMWare COmmunities](https://communities.vmware.com/t5/VMware-Workstation-Pro/Compiling-vmmon-module-fails-on-linux-kernel-5-16-0-arch1-1/td-p/2887820)
